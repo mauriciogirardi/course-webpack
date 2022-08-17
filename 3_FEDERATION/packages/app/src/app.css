@@ -1,0 +1,9 @@
+.nav-item a {
+  color: #333;
+  padding: 1rem;
+  font-weight: bold;
+}
+
+.nav-item a:hover {
+  opacity: 0.8;
+}
